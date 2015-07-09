@@ -1,0 +1,176 @@
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\App.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\MainPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\UserLogin.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\Herald.xr.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\Herald.exe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\Herald.pdb
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\resources.pri
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\AppxManifest.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\Herald.build.appxrecipe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\App.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\App.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\MainPage.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\MainPage.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UserLogin.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UserLogin.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\App.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\MainPage.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UserLogin.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\App.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\MainPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UserLogin.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\Herald.exe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\Herald.pdb
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\priconfig.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\priconfig.xml.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\layout.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\layout.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\resources.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\resources.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\pri.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\pri.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\qualifiers.txt
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\ProjectArchitectures.txt
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\StuCurriculum.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\StuCurriculum.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\StuCurriculum.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\StuCurriculum.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\StuCurriculum.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\UpdateInfo.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UpdateInfo.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UpdateInfo.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UpdateInfo.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\UpdateInfo.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\GPAPage.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\GPAPage.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Debug\GPAPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\GPAPage.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Debug\GPAPage.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\App.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\App.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\GPAPage.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\GPAPage.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\StuCurriculum.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\StuCurriculum.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\MainPage.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\MainPage.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UpdateInfo.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UpdateInfo.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UserLogin.g.i.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UserLogin.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\XamlTypeInfo.g.cs
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\App.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\GPAPage.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\StuCurriculum.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\MainPage.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UpdateInfo.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UserLogin.xaml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\App.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\GPAPage.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\StuCurriculum.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\MainPage.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UpdateInfo.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\UserLogin.xbf
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\XamlSaveStateFile.xml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\Herald.exe
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\Herald.pdb
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\App.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\GPAPage.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\StuCurriculum.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\MainPage.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\UpdateInfo.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\UserLogin.xbf
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\Herald.xr.xml
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\Herald.exe
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\Herald.pdb
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\resources.pri
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\AppxManifest.xml
+J:\代码仓库\Projects\Herald\Herald\bin\Debug\Herald.build.appxrecipe
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\priconfig.xml
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\priconfig.xml.intermediate
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\layout.resfiles
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\layout.resfiles.intermediate
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\resources.resfiles
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\resources.resfiles.intermediate
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\pri.resfiles
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\pri.resfiles.intermediate
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\qualifiers.txt
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\qualifiers.txt.intermediate
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\代码仓库\Projects\Herald\Herald\obj\Debug\ProjectArchitectures.txt
+F:\Herald\Herald\bin\Debug\App.xbf
+F:\Herald\Herald\bin\Debug\GPAPage.xbf
+F:\Herald\Herald\bin\Debug\StuCurriculum.xbf
+F:\Herald\Herald\bin\Debug\MainPage.xbf
+F:\Herald\Herald\bin\Debug\UpdateInfo.xbf
+F:\Herald\Herald\bin\Debug\UserLogin.xbf
+F:\Herald\Herald\bin\Debug\Herald.xr.xml
+F:\Herald\Herald\bin\Debug\Herald.exe
+F:\Herald\Herald\bin\Debug\Herald.pdb
+F:\Herald\Herald\bin\Debug\resources.pri
+F:\Herald\Herald\bin\Debug\AppxManifest.xml
+F:\Herald\Herald\bin\Debug\Herald.build.appxrecipe
+F:\Herald\Herald\obj\Debug\App.g.i.cs
+F:\Herald\Herald\obj\Debug\App.g.cs
+F:\Herald\Herald\obj\Debug\GPAPage.g.i.cs
+F:\Herald\Herald\obj\Debug\GPAPage.g.cs
+F:\Herald\Herald\obj\Debug\StuCurriculum.g.i.cs
+F:\Herald\Herald\obj\Debug\StuCurriculum.g.cs
+F:\Herald\Herald\obj\Debug\MainPage.g.i.cs
+F:\Herald\Herald\obj\Debug\MainPage.g.cs
+F:\Herald\Herald\obj\Debug\UpdateInfo.g.i.cs
+F:\Herald\Herald\obj\Debug\UpdateInfo.g.cs
+F:\Herald\Herald\obj\Debug\UserLogin.g.i.cs
+F:\Herald\Herald\obj\Debug\UserLogin.g.cs
+F:\Herald\Herald\obj\Debug\XamlTypeInfo.g.cs
+F:\Herald\Herald\obj\Debug\App.xaml
+F:\Herald\Herald\obj\Debug\GPAPage.xaml
+F:\Herald\Herald\obj\Debug\StuCurriculum.xaml
+F:\Herald\Herald\obj\Debug\MainPage.xaml
+F:\Herald\Herald\obj\Debug\UpdateInfo.xaml
+F:\Herald\Herald\obj\Debug\UserLogin.xaml
+F:\Herald\Herald\obj\Debug\App.xbf
+F:\Herald\Herald\obj\Debug\GPAPage.xbf
+F:\Herald\Herald\obj\Debug\StuCurriculum.xbf
+F:\Herald\Herald\obj\Debug\MainPage.xbf
+F:\Herald\Herald\obj\Debug\UpdateInfo.xbf
+F:\Herald\Herald\obj\Debug\UserLogin.xbf
+F:\Herald\Herald\obj\Debug\XamlSaveStateFile.xml
+F:\Herald\Herald\obj\Debug\Herald.exe
+F:\Herald\Herald\obj\Debug\Herald.pdb
+F:\Herald\Herald\obj\Debug\priconfig.xml
+F:\Herald\Herald\obj\Debug\priconfig.xml.intermediate
+F:\Herald\Herald\obj\Debug\layout.resfiles
+F:\Herald\Herald\obj\Debug\layout.resfiles.intermediate
+F:\Herald\Herald\obj\Debug\resources.resfiles
+F:\Herald\Herald\obj\Debug\resources.resfiles.intermediate
+F:\Herald\Herald\obj\Debug\pri.resfiles
+F:\Herald\Herald\obj\Debug\pri.resfiles.intermediate
+F:\Herald\Herald\obj\Debug\qualifiers.txt
+F:\Herald\Herald\obj\Debug\qualifiers.txt.intermediate
+F:\Herald\Herald\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Herald\Herald\obj\Debug\ProjectArchitectures.txt
+F:\Herald\Herald\obj\Debug\SRTPPage.g.i.cs
+F:\Herald\Herald\obj\Debug\SRTPPage.g.cs
+F:\Herald\Herald\bin\Debug\SRTPPage.xbf
+F:\Herald\Herald\obj\Debug\SRTPPage.xaml
+F:\Herald\Herald\obj\Debug\SRTPPage.xbf
+F:\Herald\Herald\bin\Debug\LecturePage.xbf
+F:\Herald\Herald\bin\Debug\LibPage.xbf
+F:\Herald\Herald\obj\Debug\LecturePage.g.i.cs
+F:\Herald\Herald\obj\Debug\LecturePage.g.cs
+F:\Herald\Herald\obj\Debug\LibPage.g.i.cs
+F:\Herald\Herald\obj\Debug\LibPage.g.cs
+F:\Herald\Herald\obj\Debug\LecturePage.xaml
+F:\Herald\Herald\obj\Debug\LibPage.xaml
+F:\Herald\Herald\obj\Debug\LecturePage.xbf
+F:\Herald\Herald\obj\Debug\LibPage.xbf
+F:\Herald\Herald\obj\Debug\Words.g.i.cs
+F:\Herald\Herald\obj\Debug\Words.g.cs
+F:\Herald\Herald\bin\Debug\Words.xbf
+F:\Herald\Herald\obj\Debug\Words.xaml
+F:\Herald\Herald\obj\Debug\Words.xbf

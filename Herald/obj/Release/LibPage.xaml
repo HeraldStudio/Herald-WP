@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Herald.LibPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Herald"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <!-- 标题面板 -->
+        
+            <Pivot Title="Herald" >
+                <PivotItem Header="已借阅">
+                <Grid>
+                    <StackPanel>
+                        <ListView x:Name="LibItems">
+                            <TextBlock x:Name="LibSummary"  Margin="19,9.5,19,0" Height="auto" FontSize="25"/>
+                        </ListView>
+                    </StackPanel>
+                </Grid>
+                </PivotItem>
+            <PivotItem Header="图书检索">
+                <Grid>       
+                    <ScrollViewer>
+                        <ListView x:Name="SearchItems">
+                            <ListView.Header>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBox x:Name="SearchInfo" Grid.Column="0" Margin="10,10,10,10"/>
+                                    <Button x:ConnectionId='1' x:Name="BookSearch" Grid.Column="1" Content="搜索"                         />
+                                </Grid>
+                            </ListView.Header>                                
+                        </ListView>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+
+
+        <!--TODO: 应将内容放入以下网格-->
+        
+    </Grid>
+</Page>
+

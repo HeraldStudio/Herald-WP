@@ -1,0 +1,124 @@
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\App.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\GPAPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\StuCurriculum.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\MainPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\UpdateInfo.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\UserLogin.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\Herald.xr.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\Herald.exe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\Herald.pdb
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\resources.pri
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\AppxManifest.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\bin\Release\Herald.build.appxrecipe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\App.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\App.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\GPAPage.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\GPAPage.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\StuCurriculum.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\StuCurriculum.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\MainPage.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\MainPage.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UpdateInfo.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UpdateInfo.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UserLogin.g.i.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UserLogin.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\App.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\StuCurriculum.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\MainPage.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UpdateInfo.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UserLogin.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\App.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\StuCurriculum.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\MainPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UpdateInfo.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\UserLogin.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\XamlSaveStateFile.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\GPAPage.xaml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\GPAPage.xbf
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\Herald.exe
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\Herald.pdb
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\priconfig.xml
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\priconfig.xml.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\layout.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\layout.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\resources.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\resources.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\pri.resfiles
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\pri.resfiles.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\qualifiers.txt
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\qualifiers.txt.intermediate
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Qian\documents\visual studio 2013\Projects\Herald\Herald\obj\Release\ProjectArchitectures.txt
+F:\Herald\Herald\bin\Release\App.xbf
+F:\Herald\Herald\bin\Release\GPAPage.xbf
+F:\Herald\Herald\bin\Release\LecturePage.xbf
+F:\Herald\Herald\bin\Release\LibPage.xbf
+F:\Herald\Herald\bin\Release\SRTPPage.xbf
+F:\Herald\Herald\bin\Release\StuCurriculum.xbf
+F:\Herald\Herald\bin\Release\MainPage.xbf
+F:\Herald\Herald\bin\Release\UpdateInfo.xbf
+F:\Herald\Herald\bin\Release\UserLogin.xbf
+F:\Herald\Herald\bin\Release\Words.xbf
+F:\Herald\Herald\bin\Release\Herald.xr.xml
+F:\Herald\Herald\bin\Release\Herald.exe
+F:\Herald\Herald\bin\Release\Herald.pdb
+F:\Herald\Herald\bin\Release\resources.pri
+F:\Herald\Herald\bin\Release\AppxManifest.xml
+F:\Herald\Herald\bin\Release\Herald.build.appxrecipe
+F:\Herald\Herald\obj\Release\App.g.i.cs
+F:\Herald\Herald\obj\Release\App.g.cs
+F:\Herald\Herald\obj\Release\GPAPage.g.i.cs
+F:\Herald\Herald\obj\Release\GPAPage.g.cs
+F:\Herald\Herald\obj\Release\LecturePage.g.i.cs
+F:\Herald\Herald\obj\Release\LecturePage.g.cs
+F:\Herald\Herald\obj\Release\LibPage.g.i.cs
+F:\Herald\Herald\obj\Release\LibPage.g.cs
+F:\Herald\Herald\obj\Release\SRTPPage.g.i.cs
+F:\Herald\Herald\obj\Release\SRTPPage.g.cs
+F:\Herald\Herald\obj\Release\StuCurriculum.g.i.cs
+F:\Herald\Herald\obj\Release\StuCurriculum.g.cs
+F:\Herald\Herald\obj\Release\MainPage.g.i.cs
+F:\Herald\Herald\obj\Release\MainPage.g.cs
+F:\Herald\Herald\obj\Release\UpdateInfo.g.i.cs
+F:\Herald\Herald\obj\Release\UpdateInfo.g.cs
+F:\Herald\Herald\obj\Release\UserLogin.g.i.cs
+F:\Herald\Herald\obj\Release\UserLogin.g.cs
+F:\Herald\Herald\obj\Release\Words.g.i.cs
+F:\Herald\Herald\obj\Release\Words.g.cs
+F:\Herald\Herald\obj\Release\XamlTypeInfo.g.cs
+F:\Herald\Herald\obj\Release\App.xaml
+F:\Herald\Herald\obj\Release\App.xbf
+F:\Herald\Herald\obj\Release\XamlSaveStateFile.xml
+F:\Herald\Herald\obj\Release\GPAPage.xaml
+F:\Herald\Herald\obj\Release\LecturePage.xaml
+F:\Herald\Herald\obj\Release\LibPage.xaml
+F:\Herald\Herald\obj\Release\SRTPPage.xaml
+F:\Herald\Herald\obj\Release\StuCurriculum.xaml
+F:\Herald\Herald\obj\Release\MainPage.xaml
+F:\Herald\Herald\obj\Release\UpdateInfo.xaml
+F:\Herald\Herald\obj\Release\UserLogin.xaml
+F:\Herald\Herald\obj\Release\Words.xaml
+F:\Herald\Herald\obj\Release\GPAPage.xbf
+F:\Herald\Herald\obj\Release\LecturePage.xbf
+F:\Herald\Herald\obj\Release\LibPage.xbf
+F:\Herald\Herald\obj\Release\SRTPPage.xbf
+F:\Herald\Herald\obj\Release\StuCurriculum.xbf
+F:\Herald\Herald\obj\Release\MainPage.xbf
+F:\Herald\Herald\obj\Release\UpdateInfo.xbf
+F:\Herald\Herald\obj\Release\UserLogin.xbf
+F:\Herald\Herald\obj\Release\Words.xbf
+F:\Herald\Herald\obj\Release\Herald.exe
+F:\Herald\Herald\obj\Release\Herald.pdb
+F:\Herald\Herald\obj\Release\priconfig.xml
+F:\Herald\Herald\obj\Release\priconfig.xml.intermediate
+F:\Herald\Herald\obj\Release\layout.resfiles
+F:\Herald\Herald\obj\Release\layout.resfiles.intermediate
+F:\Herald\Herald\obj\Release\resources.resfiles
+F:\Herald\Herald\obj\Release\resources.resfiles.intermediate
+F:\Herald\Herald\obj\Release\pri.resfiles
+F:\Herald\Herald\obj\Release\pri.resfiles.intermediate
+F:\Herald\Herald\obj\Release\qualifiers.txt
+F:\Herald\Herald\obj\Release\qualifiers.txt.intermediate
+F:\Herald\Herald\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\Herald\Herald\obj\Release\ProjectArchitectures.txt

@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="Herald.Words"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Herald"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 标题面板 -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Herald" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="注意事项" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>     
+        </StackPanel>
+
+        <!--TODO: 应将内容放入以下网格-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <ListView>
+                <TextBlock FontSize="20"
+                       TextWrapping="Wrap"
+                           Margin="10"
+                       Text="   0.首校园生活几个项目第一次打开速度会比较慢。。。原因出在服务器上~_~,本程序猿对此实在无能为力。忍一忍，第一次获取到数据后会好很多。"/>
+                <TextBlock FontSize="20"
+                       TextWrapping="Wrap"
+                            Margin="10"
+                       Text="   1.这是本猿做的第一个wp程序，如果有闪退屏幕不适配等bug神马的请务必海涵，可以通过邮箱与本猿联系。本猿会尽快解决的~"/>
+                <TextBlock FontSize="20"
+                       TextWrapping="Wrap"
+                            Margin="10"
+                       Text="   2.这个仅是一个早期版本，有挺多有意思的想法想要在这个平台上实现，如果你有兴趣加入开发或者帮我做做测试，本猿也同样欢迎~"/>
+                <TextBlock FontSize="20"
+                       TextWrapping="Wrap"
+                            Margin="10"
+                       Text="   3.对于若干密码的一些补充，统一认证密码是登陆my.seu.edu.cn那个密码，查询密码是你在pos机上输的那个，图书馆默认密码是一卡通号应该，跑操默认密码应该也是一卡通号，如果相应功能不正常的话请尝试更新密码"/>
+
+                <TextBlock FontSize="20"
+                       TextWrapping="Wrap">
+                    联系邮箱：qianxin@live.cn
+                </TextBlock>
+            </ListView>
+            
+        </Grid>
+    </Grid>
+</Page>
+
