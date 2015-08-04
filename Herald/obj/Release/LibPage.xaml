@@ -20,11 +20,11 @@
             <Pivot Title="Herald" >
                 <PivotItem Header="已借阅">
                 <Grid>
-                    <StackPanel>
+                    <ScrollViewer>
                         <ListView x:Name="LibItems">
                             <TextBlock x:Name="LibSummary"  Margin="19,9.5,19,0" Height="auto" FontSize="25"/>
                         </ListView>
-                    </StackPanel>
+                    </ScrollViewer>
                 </Grid>
                 </PivotItem>
             <PivotItem Header="图书检索">

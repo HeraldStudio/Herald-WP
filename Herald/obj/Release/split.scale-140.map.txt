@@ -3,5 +3,5 @@
 "ResourceDimensions"		"scale-140"
 
 [Files]
-"F:\Herald\Herald\obj\Release\split.scale-140.pri"			"resources.pri"
-"F:\Herald\Herald\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\obj\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"

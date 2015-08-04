@@ -1,1 +1,1 @@
-F:\Herald\Herald\AppPackages\Herald_1.1.0.0_Test\Herald_1.1.0.0_AnyCPU.appxbundle
+C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\AppPackages\Herald_2015.804.1509.2638_Test\Herald_2015.804.1509.2638_AnyCPU.appxbundle

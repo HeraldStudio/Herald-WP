@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="11298QianXin.Herald" Publisher="CN=B9C974A6-6B52-47E7-91E0-49735A8319FC" Version="1.1.0.0" />
+  <Identity Name="11298QianXin.Herald" Publisher="CN=B9C974A6-6B52-47E7-91E0-49735A8319FC" Version="2015.804.1509.2638" />
   <mp:PhoneIdentity PhoneProductId="8f81c4a6-8f60-4f4c-a8f2-643019c9ebb7" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>先声Herald</DisplayName>

@@ -29,29 +29,34 @@
 
         <!--TODO: 应将内容放入以下网格-->
         <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
-            <ListView>
-                <TextBlock FontSize="20"
+            <ScrollViewer>
+            <StackPanel>         
+                <ListView>
+                    <TextBlock FontSize="20"
                        TextWrapping="Wrap"
                            Margin="10"
                        Text="   0.首校园生活几个项目第一次打开速度会比较慢。。。原因出在服务器上~_~,本程序猿对此实在无能为力。忍一忍，第一次获取到数据后会好很多。"/>
-                <TextBlock FontSize="20"
+                    <TextBlock FontSize="20"
                        TextWrapping="Wrap"
                             Margin="10"
                        Text="   1.这是本猿做的第一个wp程序，如果有闪退屏幕不适配等bug神马的请务必海涵，可以通过邮箱与本猿联系。本猿会尽快解决的~"/>
-                <TextBlock FontSize="20"
+                    <TextBlock FontSize="20"
                        TextWrapping="Wrap"
                             Margin="10"
                        Text="   2.这个仅是一个早期版本，有挺多有意思的想法想要在这个平台上实现，如果你有兴趣加入开发或者帮我做做测试，本猿也同样欢迎~"/>
-                <TextBlock FontSize="20"
+                    <TextBlock FontSize="20"
                        TextWrapping="Wrap"
                             Margin="10"
                        Text="   3.对于若干密码的一些补充，统一认证密码是登陆my.seu.edu.cn那个密码，查询密码是你在pos机上输的那个，图书馆默认密码是一卡通号应该，跑操默认密码应该也是一卡通号，如果相应功能不正常的话请尝试更新密码"/>
 
-                <TextBlock FontSize="20"
+                    <TextBlock FontSize="20"
                        TextWrapping="Wrap">
                     联系邮箱：qianxin@live.cn
-                </TextBlock>
-            </ListView>
+                    </TextBlock>
+                </ListView>
+                <TextBlock HorizontalAlignment="Center" FontSize="15">Herald Version 1.1.0 By QianXin</TextBlock>
+            </StackPanel>
+            </ScrollViewer>
             
         </Grid>
     </Grid>

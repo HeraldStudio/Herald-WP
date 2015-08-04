@@ -53,7 +53,7 @@
                 <TextBlock Style="{StaticResource ItemsTitles}"  Text="统一认证密码"/>
                 <PasswordBox  x:Name="password" Style="{StaticResource PasswordBox}"/>
                 <TextBlock Style="{StaticResource ItemsTitles}"  Text="*学号"/>
-                <TextBox x:Name="number" Style="{StaticResource TEXTBOX}" InputScope="NumberFullWidth"/>
+                <TextBox x:Name="number" Style="{StaticResource TEXTBOX}"/>
                 <TextBlock Style="{StaticResource ItemsTitles}"  Text="*跑操密码" />
                 <PasswordBox  x:Name="pe_password" Style="{StaticResource PasswordBox}"/>
                 <TextBlock  Style="{StaticResource ItemsTitles}"  Text="*图书馆用户名" />

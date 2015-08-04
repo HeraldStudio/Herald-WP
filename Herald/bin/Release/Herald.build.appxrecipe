@@ -1,98 +1,100 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>QIAN</Machine>
-    <WindowsUser>Qian_2</WindowsUser>
+    <Machine>DESKTOP-FFAT0VF</Machine>
+    <WindowsUser>Qian</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>8f81c4a6-8f60-4f4c-a8f2-643019c9ebb7</PackageIdentityName>
-    <IntermediateOutputPath>F:\Herald\Herald\obj\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\obj\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\Herald\Herald\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\Herald.exe">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\Herald.exe">
       <PackagePath>Herald.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\GPAPage.xbf">
-      <PackagePath>GPAPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\LecturePage.xbf">
-      <PackagePath>LecturePage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\LibPage.xbf">
-      <PackagePath>LibPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\SRTPPage.xbf">
-      <PackagePath>SRTPPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\StuCurriculum.xbf">
-      <PackagePath>StuCurriculum.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\MainPage.xbf">
-      <PackagePath>MainPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\UpdateInfo.xbf">
-      <PackagePath>UpdateInfo.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\UserLogin.xbf">
-      <PackagePath>UserLogin.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\Words.xbf">
-      <PackagePath>Words.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\Herald.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\Herald.xr.xml">
       <PackagePath>Herald.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Herald\Herald\bin\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\GPAPage.xbf">
+      <PackagePath>GPAPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\LecturePage.xbf">
+      <PackagePath>LecturePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\LibPage.xbf">
+      <PackagePath>LibPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\SRTPPage.xbf">
+      <PackagePath>SRTPPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\StuCurriculum.xbf">
+      <PackagePath>StuCurriculum.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\UpdateInfo.xbf">
+      <PackagePath>UpdateInfo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\UserLogin.xbf">
+      <PackagePath>UserLogin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\Words.xbf">
+      <PackagePath>Words.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

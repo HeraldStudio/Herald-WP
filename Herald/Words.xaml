@@ -54,7 +54,7 @@
                     联系邮箱：qianxin@live.cn
                     </TextBlock>
                 </ListView>
-                <TextBlock HorizontalAlignment="Center" FontSize="15">Herald Version 1.0.0 By QianXin</TextBlock>
+                <TextBlock HorizontalAlignment="Center" FontSize="15">Herald Version 1.1.0 By QianXin</TextBlock>
             </StackPanel>
             </ScrollViewer>
             

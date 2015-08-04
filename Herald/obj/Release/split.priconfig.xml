@@ -5,7 +5,7 @@
     <autoResourcePackage qualifier="Scale" />
     <autoResourcePackage qualifier="DXFeatureLevel" />
   </packaging>
-  <index root="\" startIndexAt="F:\Herald\Herald\bin\Release\resources.pri">
+  <index root="\" startIndexAt="C:\Users\Qian\Documents\Visual Studio 2015\Projects\Herald\Herald\bin\Release\resources.pri">
     <default>
       <qualifier name="Language" value="zh-CN" />
       <qualifier name="Contrast" value="standard" />

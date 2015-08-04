@@ -96,6 +96,7 @@ namespace Herald
                     GPA_SUM += double.Parse(myGPA.content[i].credit) * GPA_temp;
                 }
             }
+
             return GPA_SUM / Credit;
         }
         public async void GPAPageChange(){
@@ -126,7 +127,7 @@ namespace Herald
                     string[] GPATemp = myGPA.content[0].calculateTime.Split(' ');
                     GPASummary.Text += "平均绩点： " + myGPA.content[0].gpa + "\n";
                     GPASummary.Text += "首修绩点： " + myGPA.content[0].gpaWithoutRevamp + "\n";
-                    GPASummary.Text += "计算绩点： " + CalGPA(myGPA).ToString() + "\n";
+                    GPASummary.Text += "计算绩点： " + CalGPA(myGPA).ToString("0.000") + "\n";
                     GPASummary.Text += "绩点计算时间： " + GPATemp[0] + "\n";
                     GPASummary.Text += "绩点详情：\n";
                     for (int i = 1; i < myGPA.content.GetLength(0); i++)

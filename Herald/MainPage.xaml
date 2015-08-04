@@ -15,6 +15,13 @@
             <Setter Property="Margin" Value="10,10,10,10"/>
         </Style>
     </Page.Resources>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Upload" Label="更新信息"  Click="Update_Click"/>
+            <AppBarButton Icon="Cancel" Label="注销" Click="Logout_Click"/>
+            <AppBarButton Icon="Help" Label="FAQ" Click="Words_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
     <Grid x:Name="LayoutRoot">
         <ProgressRing x:Name="Waiting" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10"  Foreground="White"/>
         <Pivot>
@@ -96,8 +103,6 @@
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="*"/>
                                 </Grid.ColumnDefinitions>
-                                <Button x:Name="Update" Grid.Column="0" HorizontalAlignment="Center" Content="更新信息" Click="Update_Click" />
-                                <Button x:Name="Logout" Grid.Column="1" HorizontalAlignment="Center" Content="注销" Click="Logout_Click"/>
                             </Grid>
 
                         </StackPanel>
@@ -114,16 +119,12 @@
                     <StackPanel>
                     <StackPanel>
                         <TextBlock  FontSize="20" TextWrapping="Wrap">                
-                            作为一名windows phone的使用者，挺遗憾这个平台没有那么多好的应用，
-                        不过作为先声的一员，在抱怨的同时也应该做些什么，于是便有了这个应用的诞生。
-                        （赶紧撒花<LineBreak/><LineBreak/>
-                        第一次使用如有问题请参看FAQ    
-                        <LineBreak/><LineBreak/>  
+                            感谢各位的使用，第一版真是太多不走心了（擦汗），对bug进行了一些修复，算是亡羊补牢吧。有问题仍然欢迎反馈，我的联系方式就在FAQ中。    
+                        <LineBreak/>  
                             希望各位同学使用愉快。
                         <LineBreak/><LineBreak/> 以上
                         </TextBlock>
-                        <Button x:Name="Words" HorizontalAlignment="Center" Content="FAQ" Click="Words_Click" />               
-                    </StackPanel>
+                            </StackPanel>
                             <Grid>
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="*"/>
